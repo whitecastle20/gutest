@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565177193496",
+    "project_id": "gutest-18a3e",
+    "storage_bucket": "gutest-18a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565177193496:android:40c552411065087de39f6d",
+        "android_client_info": {
+          "package_name": "kr.co.company.gutest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565177193496-19i5ci2orbvqirfnai5e6qq9n3bao6jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRe5sR_EmOAj4Pkt2oLkAOIRdU1h21ctM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565177193496-19i5ci2orbvqirfnai5e6qq9n3bao6jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
